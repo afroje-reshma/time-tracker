@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>training.time-tracker</groupId>
     <artifactId>time-tracker-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.3.1-SNAPSHOT</version>
+    <version>0.3.1</version>
     <name>Time Tracker (Parent)</name>
     <description>
         This is a simple Maven / Java web project.
@@ -21,7 +20,7 @@
 <scm>
         <connection>scm:git:https://github.com/afroje-reshma/time-tracker.git </connection>
         <url>https://github.com/afroje-reshma/time-tracker.git</url>
-        <tag>v1.5</tag>
+        <tag>v0.3.1</tag>
     </scm>
 
     <modules>
