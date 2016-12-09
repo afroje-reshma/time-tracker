@@ -46,7 +46,6 @@
 
     <build>
 
-             <finalName>time-tracker-pipeline</finalName>
 
     <pluginManagement>
             <plugins>
