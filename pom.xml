@@ -18,6 +18,12 @@
         <junit.version>4.12</junit.version>
     </properties>
 
+<scm>
+        <connection>scm:git:https://github.com/afroje-reshma/time-tracker.git </connection>
+        <url>https://github.com/afroje-reshma/time-tracker.git</url>
+        <tag>v1.5</tag>
+    </scm>
+
     <modules>
         <module>core</module>
         <module>web</module>
